@@ -1,3 +1,6 @@
+game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {Text = "this script is outdated check your clipboard to get the updated script"})
+setclipboard('loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/script/main/AnimeAdventures2.lua"))()')
+
 --Boronide™ Premium Obfuscation, v0.6.2
 
 local M,z,l=nil,nil,nil([[
